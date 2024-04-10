@@ -5,15 +5,18 @@ target_directory = 'text_depo'
 directory = os.path.join(current_directory, target_directory)
 
 def search_text_in_files(directory, search_text):
-    found_files = []  # List to store filenames where search text is found
+    found_files = []
     for filename in os.listdir(directory):
         filepath = os.path.join(directory, filename)
         if os.path.isfile(filepath) and filename.endswith('.txt'):
             with open(filepath, 'r') as file:
                 for line in file:
-                    if search_text in line:
-                        found_files.append(filename)
-                          # No need to continue searching in the same file once text is found change
+                    found = False
+                    if search_text in line and not found:
+                        if filename not in found_files:
+                            found_files.append(filename)
+                            found = True
+                          
     if found_files:
         print(f"Search text '{search_text}' found in the following files:")
         for file in found_files:
