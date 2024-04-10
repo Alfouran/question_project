@@ -1,0 +1,16 @@
+
+What is a Central Processing Unit (CPU)?
+
+The Central Processing Unit (CPU) is the primary component of a computer that acts as its “control center.” The CPU, also referred to as the “central” or “main” processor, is a complex set of electronic circuitry that runs the machine’s operating system and apps. The CPU interprets, processes and executes instructions, most often from the hardware and software programs running on the device.
+
+The CPU performs arithmetic, logic, and other operations to transform data input into more usable information output. While the CPU must contain at least one processing core, many contain multiple cores. A server with two hexa-core CPUs, for example, will have a total of 12 processors.
+What You Need to Know About a Central Processing Unit (CPU)?
+
+Running multiple processor units simultaneously allows for multi-tasking and can dramatically improve performance. But while important, the number of cores and processors aren’t the only factors that need to be taken into consideration. To determine the best CPU for a project, developers typically focus on the specific applications that will be dependent on the CPU and identify the most important features based on those apps’ requirements. Among the many things to consider are: 
+
+    How many cores are required
+    What CPU speed is required
+    What size cache (temporary storage) is required for quick retrieval
+    If there is processor compatibility with the motherboard socket
+    If an integrated GPU is required to support graphics
+
