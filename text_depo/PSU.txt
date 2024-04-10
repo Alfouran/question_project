@@ -1,0 +1,46 @@
+Power supply
+Updated: 09/12/2023 by Computer Hope
+Computer power supply
+
+Abbreviated as PS or P/S, a power supply or PSU (power supply unit) is a hardware component of a computer that supplies all other components with power. The power supply converts a 110-115 or 220-230 volt AC (alternating current) into a steady low-voltage DC (direct current) usable by the computer and rated by the number of watts it generates. The picture shows an Antec True 330, a 330 Watt power supply.
+
+Where is the power supply located in a computer?
+
+The power supply is located at the back of the computer, usually at the top. However, many more recent tower computer cases house the power supply at the bottom back of the case. In a desktop computer case (all-in-one), the power supply is located at the back left or back right.
+
+Parts found on the back of a power supply
+
+Below are parts you may find on the back of the power supply.
+
+    A connection for the power cord to the computer.
+    A fan opening to heat out of the power supply.
+    A red switch to change the power supply voltage.
+    A rocker switch to turn the power supply on and off.
+
+On the front of the power supply, which is not visible unless the computer is opened, you find several cables. These cables connect to the computer motherboard and other internal components. With an ATX (advanced technology extended) motherboard, a power supply connects to the motherboard using an ATX style connector and may have one or more of the following power cables.
+
+    Auxiliary connector
+    Berg connector
+    Molex connector
+    P4 connector
+
+Parts found inside a power supply
+
+Below are parts inside a power supply.
+
+    A rectifier that converts AC (alternating current) into DC.
+    A filter that smooths out the DC (direct current) coming from a rectifier.
+    A transformer that controls the incoming voltage by stepping it up or down.
+    A voltage regulator that controls the DC output, allowing the correct amount of power, volts or watts, to be supplied to the computer hardware.
+
+The order that these internal power supply components function is as follows.
+
+    Transformer
+    Rectifier
+    Filter
+    Voltage Regulator
+
+What items are powered by the computer PSU?
+
+Everything contained in the computer chassis is powered by the power supply. For example, the motherboard, RAM (random-access memory), CPU (central processing unit), hard drive, disc drives, and most video cards (if the computer has one) are all drawing power from the power supply. Any other external devices and peripherals, such as the computer monitor and printer, have a power source or draw power over the data cable like some USB (universal serial bus) devices.
+

@@ -1,0 +1,29 @@
+A motherboard is the main printed circuit board (PCB) in a computer. The motherboard is a computer's central communications backbone connectivity point, through which all components and external peripherals connect.
+
+Motherboards can be found in virtually all computers, especially desktop and laptop PCs. The components that connect through them include chipsets, central processing units (CPU) and memory. The external peripherals include Wi-Fi, Ethernet and graphics cards with the graphics processing unit, or GPU.
+
+Motherboard manufacturers include Acer, ASRock, Asus, Gigabyte Technology, Intel and Micro-Star International.
+How do motherboards work?
+
+The PCB of a large motherboard may include six to 14 layers of fiberglass, copper connecting traces and copper planes for power and signal isolation. Other components get added to a motherboard through expansion slots. These include processor sockets; dual in-line memory modules; Peripheral Component Interconnect (PCI), PCI Express (PCIe) and solid-state drive M.2 slots; as well as power supply connections.
+
+A heatsink and fan manage the heat components such as the CPU generate. Typically motherboards offer additional connectivity through a Southbridge chip such as PCI, Serial Advanced Technology Attachment or SATA, Thunderbolt, USB and other interfaces.
+
+The CPU is generally connected to double data rate 3 (DDR3), DDR4, DDR5 or onboard LPDDRx RAM and PCIe. This is done through point-to-point interconnects such as HyperTransport, Intel's QuickPath Interconnect and Ultra Path Interconnect. Choosing a motherboard often determines many features a computer will support.
+
+Motherboard designs in desktop computers typically are the ATX motherboard, which is Intel's improved version of IBM's AT design. Other form factor designers include the following:
+
+    extended ATX
+    mini-ATX
+    micro ATX
+    BTX
+    micro BTX
+    mini-ITX
+    micro ITX
+    nano-ITX
+
+Some memory controllers are now built into CPUs; that has eliminated the Northbridge chips that provided memory management from the motherboard. Integrated video has moved from a motherboard slotted peripheral to graphics-enabled CPUs.
+
+AMD's Ryzen has a system-on-a-chip design that also makes the Southbridge chipset optional. This CPU integration has cut motherboard manufacturers' costs. They can offer base systems for workstations and entry-level computers and can design customized implementations for various processors that enable platform upgrades.
+
+Gaming motherboards are made for high-performance computers; they are more powerful and have more features than motherboards for desktop and laptop computers.

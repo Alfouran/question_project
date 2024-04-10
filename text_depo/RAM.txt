@@ -1,0 +1,62 @@
+What is RAM on a computer?
+
+RAM (random access memory) is a computer's short-term memory, where the data that the processor is currently using is stored. Your computer can access RAM memory much faster than data on a hard disk, SSD, or other long-term storage device, which is why RAM capacity is critical for system performance.
+What does RAM stand for?
+
+RAM stands for random access memory, and it’s one of the most fundamental elements of computing. RAM is a temporary memory bank where your computer stores data it needs to retrieve quickly. RAM keeps data easily accessible so your processor can quickly find it without having to go into long-term storage to complete immediate processing tasks.
+
+Every computing device has RAM, whether it’s a desktop computer (running Windows, MacOS, or Linux), a tablet or smartphone (running Android or iOS), or even an IoT computing device (like a smart TV). Nearly all computers have a way of storing information for longer-term access, too. But the memory needed to run the process you’re currently working on is stored and accessed in your computer’s RAM.
+What does computer memory (RAM) do?
+
+RAM is a form of temporary storage that gets wiped when you turn your computer off. RAM offers lightning-fast data access, which makes it ideal for the processes, apps, and programs your computer is actively working on, such as the data needed to surf the internet through your web browser.
+
+To understand RAM, let’s use the analogy of a physical desk. Your working space is the top of the desk. That’s where you keep everything you frequently use within arm’s reach, so you won’t waste time searching through your drawers. By contrast, anything you don’t use that much or that you want to save for later goes into a desk drawer.
+
+On your computer, your RAM is like the top of your desk, where you keep everything you need quick access to. And the data that you don’t use much or want to save for later is stored on a hard disk, either locally in your device or in the cloud.
+
+What is RAM used for?
+
+RAM is used for immediate data storage and retrieval. Your RAM can process information significantly faster than data on a hard disk — twenty to a hundred times faster, depending on the specific hardware and task.
+
+To accomplish a specific task, computer operating systems load data from the hard disk into RAM to process it. When it’s finished actively working with that data, the computer converts it back into long-term storage.
+
+When you open a program such as Microsoft Word, your computer loads the application into its RAM. If you open a document you already have saved on your computer, your operating system locates the file in long-term storage and copies the information onto its RAM. Once the data is in your RAM, you get near-instantaneous performance because RAM is lightning fast.
+
+When you save a document, or any other type of file, the data gets copied to the hard disk or other long-term storage. And when you close an application, the computer operating system takes it out of its RAM, which frees up space in your computer’s short-term memory so you can work on your next project. If you forget to save a document to your hard drive and the power fails, all that work is gone, because the purpose of RAM is temporary storage.
+
+Another use for RAM is to help your computer load previously-accessed information more quickly. When you first turn on your computer and launch any application, such as PowerPoint or Spotify, it takes a while to load. But if you close a program and then relaunch it, the software opens almost instantly (especially if your PC is optimized for performance). That’s because the data needed to load the app is stored in the significantly faster RAM rather than the hard disk.
+
+In short, RAM is used for any task that requires quick access to computing resources. A Windows feature called SuperFetch helps make this access even faster and more seamless, by recording your usage patterns and automatically pre-loading applications and files into RAM based on your behavior.
+CPU vs RAM: which is more important?
+
+The central processing unit (CPU) is your computer’s nerve center, where all the calculations necessary to run software applications are carried out. But, in order to function quickly and smoothly, CPUs rely on RAM to provide high-speed access to the data they need — it’s a team effort.
+
+So, while both are vital components, when it comes to optimizing PC performance, if your processor’s maxed-out, upgrading or overclocking your CPU will provide more raw processing power, enabling you to run more resource intensive programs and take on bigger multitasking loads. On the other hand, increasing RAM capacity will mainly enable faster and more complex processes.
+How much memory do I need?
+
+The more RAM your computer has, the faster it runs. If your device is old, you might need to upgrade the RAM or other hardware. Every open application (including browser tabs) consumes RAM. When you run out of RAM, your computer has to move things around to free up space on the hard disk, which slows down your computer.
+
+Note that RAM is different from storage: If you turn off your PC, the information in your RAM is gone, but the data saved in your long-term storage (SSD or HDD) is saved.
+
+The amount of RAM you need depends on the apps and programs you use, how many of them you have open at the same time, and how impatient you are. We always want our devices to respond instantly to our commands, so if you notice sluggish performance, check your RAM and other PC specs and make sure that you’re not overtaxing your computer.
+
+Usually, you need far less RAM than you do hard disk space. Again, think of that physical desk at home. The more space you have on the desktop, the more pieces of paper you can spread around. But you may still need a big filing cabinet to store all the files you’ve collected over time.
+
+Back in the days when hardware was based on Pentium CPUs, you rarely needed more than 8MB of RAM — perhaps 32 MB if you were a serious tech geek.
+That was plenty to run Windows 95, the first versions of Microsoft Word, and early PC games like Doom. Today, a web browser with a bunch of open tabs can easily consume over 2.2GB of RAM.When you buy a computer, you have several options of RAM capacity: 4GB, 8GB, 16GB, or even more memory (32GB, 64GB) if you use high-end editing software or are an enthusiastic gamer.
+
+Lower-end or legacy devices usually come with 4GB of RAM, while higher-end (and more expensive) machines have 8GB or 16GB of RAM. And you can find professional-level computers with even more RAM.
+
+But how much RAM do you really need and for what? Here are our recommendations, which apply to any operating system or personal computer hardware:
+
+    4 GB of RAM: If you use your computer to browse the web, work with standard Office applications, and do light photo editing, you’ll be fine with 4GB of RAM.
+
+    8 GB of RAM: Heavy multitaskers or light gamers should choose a computer with 8GB of RAM.
+
+    16+ GB of RAM: Some tasks are computing intensive, such as serious gaming, video editing, programming, or having to run multiple intensive tasks simultaneously. Those who demand professional-level performance with no slowdowns will need 16+GB of RAM.
+
+What happens when you don’t have enough RAM? How do you know?
+
+When the computing tasks exceed the current amount of memory on your computer, the operating system has to choose an application and move it to the hard drive. When you switch back to that application, it needs to retrieve that information before you can work with it. This is called paging or swapping, and it’s time-consuming. The process causes delays and performance drops.
+ou can make your computer run faster and better by regularly clearing wasteful clutter out of your RAM. You can do this manually, but it’s easier to do with a specialized software tool. If you notice your computer’s performance dropping, install optimization software like Avast Cleanup, which will disable wasteful background services and processes and give you back the RAM lost to unnecessary programs.
+
